@@ -1,1 +1,1 @@
-print("This is a adas")
+print("This is a nokhod")
