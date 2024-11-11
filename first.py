@@ -1,1 +1,1 @@
-print("This is an apple")
+print("This is an khiar")
