@@ -1,1 +1,1 @@
-print("This is a cherry")
+print("This is a nokhod")
